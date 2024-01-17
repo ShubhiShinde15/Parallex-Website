@@ -1,0 +1,1 @@
+This project is a parallax scrolling website, designed to showcase the immersive and visually engaging experience of parallax design. The website incorporates scrolling effects to create a sense of depth and movement, providing a unique and interactive user experience.
